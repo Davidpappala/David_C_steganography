@@ -11,6 +11,7 @@ Requirements
 5.	Command-Line Interface: This should be a command-line application, with all options and inputs specified via command-line arguments.
 
 The project files include:
+
 •	Code files (e.g., encode.c, decode.c, project_main.c) that appear to handle encoding and decoding functions, likely for embedding information within a bitmap image (steganography).
 •	Header files (common.h, encode.h, decode.h) to manage shared functions and constants across the project.
 •	Bitmap images (e.g., beautiful.bmp, output.bmp) that are probably used as cover images for encoding messages.
