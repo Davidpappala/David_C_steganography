@@ -5,3 +5,4 @@
 #define MAGIC_STRING "#*"
 
 #endif
+
